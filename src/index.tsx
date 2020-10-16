@@ -15,7 +15,7 @@ import {
   HashtagMatch,
   MentionMatch,
   PhoneMatch,
-} from 'autolinker/dist/es2015';
+} from 'autolinker';
 import {
   Alert,
   Linking,

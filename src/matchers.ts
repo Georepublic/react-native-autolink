@@ -6,7 +6,7 @@
  * https://github.com/joshswan/react-native-autolink/blob/master/LICENSE
  */
 
-import { Match, MatchConfig } from 'autolinker/dist/es2015';
+import { Match, MatchConfig } from 'autolinker';
 
 export interface LatLngMatchConfig extends MatchConfig {
   latlng: string;
