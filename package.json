@@ -8,10 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/joshswan/react-native-autolink"
-  },
-  "bugs": {
-    "url": "https://github.com/joshswan/react-native-autolink/issues"
+    "url": "https://github.com/Georepublic/react-native-autolink"
   },
   "keywords": [
     "react native",
